@@ -1,3 +1,3 @@
 # HW03
 
-Some Python exercises
+Some exercises with audio files and sample arrays.
